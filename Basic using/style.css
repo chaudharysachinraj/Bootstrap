@@ -1,0 +1,11 @@
+.container{
+    padding-bottom: 50px;
+}
+
+.container-fluid{
+    background-color: yellow;
+}
+
+.btn-info{
+    background-color: pink;
+}
