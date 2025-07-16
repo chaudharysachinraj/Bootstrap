@@ -8,23 +8,23 @@
 
 .box-1{
     background-color: yellow;
-    height: 250px;
+    min-height: 250px;
 }
 .box-2{
     background-color: orange;
-    height: 250px;
+    min-height: 250px;
 }
 .box-3{
     background-color: pink;
-    height: 250px;
+    min-height: 250px;
 }
 .box-4{
     background-color: blue;
-    height: 250px;
+    min-height: 250px;
 }
 .box-5{
     background-color: rgb(45, 248, 45);
-    height: 250px;
+    min-height: 250px;
 }
 
 .container{
