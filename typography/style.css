@@ -1,0 +1,29 @@
+.container{
+    border: 5px solid green;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* gap: 20px; */
+}
+.container-fluid{
+    border: 5px solid red;
+}
+.row{
+    border: 5px solid rgb(45, 248, 45);
+    /* height: 500px; */
+}
+.yellow{
+    background-color: yellow;
+    /* min-height: 250px; */
+}
+.orange{
+    background-color: orange;
+    /* min-height: 250px; */
+}
+.pink{
+    background-color: pink;
+    /* min-height: 250px; */
+}
+.blue{
+    background-color: blue;
+    /* min-height: 250px; */
+}
